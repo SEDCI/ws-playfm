@@ -1,0 +1,1209 @@
+
+
+
+
+html{
+
+
+
+	min-height: 100%;
+
+
+
+	position: relative;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+body{
+
+
+
+	background: #fff;
+
+
+
+	font-family: 'Abel', sans-serif;
+
+
+
+}
+
+
+
+
+
+
+
+.social{
+
+
+
+	border-top-right-radius: 0px;
+
+
+
+	border-top-left-radius: 0px;
+
+
+
+	background: #006b90;
+
+
+
+	border: 1px solid #006b90;
+
+
+
+	padding-bottom: 0px;
+
+
+
+
+
+
+
+
+
+
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+
+    text-align: center;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.modal-backdrop
+
+
+
+{
+
+
+
+    opacity: 0.8 !important;
+
+
+
+}
+
+
+
+
+
+
+
+.modal-footer{
+
+
+
+	text-align: center;
+
+
+
+}
+
+
+
+.fb-page{
+
+
+
+	width: 100% !important;
+
+
+
+}
+
+
+
+
+
+
+
+#logo {
+
+
+
+	padding: 8px;
+
+
+
+	background: #efefef;
+
+
+
+}
+
+
+
+.logo{
+
+
+
+	width: 30%;
+
+
+
+	display: inline-block;
+
+
+
+}
+
+
+
+#slider{
+
+
+
+	float: right;
+
+
+
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+
+    text-align: center;
+
+
+
+    background: transparent;
+
+
+
+}
+
+
+
+#slider{
+
+
+
+	z-index: 99 !important;
+
+
+
+}
+
+
+
+.slider{
+
+
+
+	z-index: 99 !important;
+
+
+
+	padding: 8px;
+
+
+
+	background: #efefef;
+
+
+
+}
+
+
+
+.slider-button{
+
+
+
+	background: #999;
+
+
+
+	border: 1px solid #999;
+
+
+
+	font-size: 0.8em;
+
+
+
+	padding: 1em;
+
+
+
+	padding-top: 2em;
+
+
+
+	padding-bottom: 2em;
+
+
+
+	border-radius: 150px;
+
+
+
+	margin-bottom: -30px;
+
+
+
+	z-index:999;
+
+
+
+	float: right;
+
+
+
+	margin-right: 1em;
+
+
+
+}
+
+
+
+.slider-bottom-container{
+
+
+
+	background: transparent;
+
+
+
+	float: right;
+
+
+
+	z-index:999;
+
+
+
+}
+
+
+
+.slider-button:hover{
+
+
+
+	background: #c80000;
+
+
+
+	border: 1px solid #c80000;
+
+
+
+}
+
+
+
+.main-slider{
+
+
+
+	width: 100%;
+
+
+
+}
+
+
+
+.main-button{
+
+
+
+	padding: 8px;
+
+
+
+	border-radius: 0px;
+
+
+
+	border: 8px solid #efefef
+
+
+
+}
+
+
+
+.col-md-4{
+
+
+
+	margin: 5px;
+
+
+
+}
+
+
+
+.events{
+
+
+
+	background: #00b673;
+
+
+
+}
+
+
+
+.show{
+
+
+
+	background: #f22d5a;
+
+
+
+}
+
+
+
+.dj{
+
+
+
+	background: #ff9600;
+
+
+
+}
+
+
+
+.btn-info:hover{
+
+
+
+	background: #c80000;
+
+
+
+	border-color: #c80000;
+
+
+
+}
+
+
+
+.col-md-4{
+
+
+
+  width: 32%;
+
+
+
+  margin-top: 20px;
+
+
+
+  padding-top: 20px;
+
+
+
+  padding-bottom: 20px;
+
+
+
+}
+
+
+
+.row{
+
+
+
+	margin-left: 7px;
+
+
+
+	margin-right: 7px;
+
+
+
+}
+
+
+
+.third{
+
+
+
+	margin-top: 20px;
+
+
+
+}
+
+
+
+.countdown{
+
+
+
+	padding: 8px;
+
+
+
+	background: #efefef;
+
+
+
+	width: 30%;
+
+
+
+	display: inline-block;
+
+
+
+	margin-right: 8px;
+
+
+
+	min-height: 250px;
+
+
+
+}
+
+
+
+.white-bg{
+
+
+
+	background: #fff;
+
+
+
+	height: 100%;
+
+
+
+}
+
+
+
+.countdown img{
+
+
+
+	margin-bottom: 8px;
+
+
+
+}
+
+
+
+.countdown p{
+
+
+
+	line-height: 3px;
+
+
+
+}
+
+
+
+.client{
+
+
+
+	padding: 8px;
+
+
+
+	background: #efefef;
+
+
+
+	margin-right: 8px;
+
+
+
+	min-height: 250px;
+
+
+
+	overflow: hidden;
+
+
+
+}
+
+
+
+	.client-slider{
+
+
+
+		width:100%;
+
+
+
+	}
+
+
+
+.join{
+
+
+
+	background: #efefef;
+
+
+
+	padding: 8px;
+
+
+
+	min-height: 250px;
+
+
+
+	height: 100%;
+
+
+
+}
+
+
+
+.join h3{
+
+
+
+	margin-top: 60px;
+
+
+
+	color: #000;
+
+
+
+}
+
+
+
+.join h4{
+
+
+
+	color: #000;
+
+
+
+}
+
+
+
+.note {
+
+
+
+          position:relative;
+
+
+
+          color:#fff;
+
+
+
+          overflow:hidden;
+
+
+
+      }
+
+
+
+
+
+
+
+      .note:before {
+
+
+
+          content:"";
+
+
+
+          position:absolute;
+
+
+
+          top:0;
+
+
+
+          right:0;
+
+
+
+          border-width:0 16px 16px 0; /* This trick side-steps a webkit bug */
+
+
+
+          border-style:solid;
+
+
+
+          border-color:#fff #fff #ededed #ededed; /* A bit more verbose to work with .rounded too */
+
+
+
+          background:#ededed; /* For when also applying a border-radius */
+
+
+
+          display:block; width:0; /* Only for Firefox 3.0 damage limitation */
+
+
+
+          /* Optional: shadow */
+
+
+
+          -webkit-box-shadow:0 1px 1px rgba(0,0,0,0.3), -1px 1px 1px rgba(0,0,0,0.2);
+
+
+
+          -moz-box-shadow:0 1px 1px rgba(0,0,0,0.3), -1px 1px 1px rgba(0,0,0,0.2);
+
+
+
+          box-shadow:0 1px 1px rgba(0,0,0,0.3), -1px 1px 1px rgba(0,0,0,0.2);
+
+
+
+      }
+
+
+
+.footer{
+
+
+
+	background: #000;
+
+
+
+	color: #fff;
+
+
+
+	margin-top: 20px;
+
+
+
+	display: inline-block;
+
+
+
+}
+
+
+
+.footer p, img{
+
+
+
+	display: inline-block;
+
+
+
+	margin-right: 3px;
+
+
+
+}
+
+
+
+.like{
+
+
+
+	float: right;
+
+
+
+}
+
+
+
+.content{
+
+
+
+	display: inline;
+
+
+
+	margin-left: 0 auto;
+
+
+
+	margin-right: 0 auto;
+
+
+
+}
+
+
+
+#ads{
+
+
+
+    position: fixed !important;
+
+
+
+}
+
+
+
+#ads img{
+
+
+
+	height: 49vh;
+
+
+
+}
+
+
+
+.ads-left{
+
+
+
+	top: 0;
+
+
+
+	left: 0;
+
+
+
+}
+
+
+
+.ads-right{
+
+
+
+	top: 0;
+
+
+
+	right: 0;
+
+
+
+}
+
+
+
+.register-content p{
+
+
+
+	color: #000;
+
+
+
+	text-align: left;
+
+
+
+}
+
+
+
+.register{
+
+
+
+	min-height: 750px;
+
+
+
+}
+
+
+
+#closead {
+
+
+
+    float:right;
+
+
+
+    display:inline-block;
+
+
+
+    padding:2px 5px;
+
+
+
+    background:#ccc;
+
+
+
+}
+
+
+
+#closead-right {
+
+
+
+    float:left;
+
+
+
+    display:inline-block;
+
+
+
+    padding:2px 5px;
+
+
+
+    background:#ccc;
+
+
+
+}
+
+
+
+@media(max-width: 1400px){
+
+
+
+	.container{
+
+
+
+		width: 1000px;
+
+
+
+	}
+
+
+
+	.client, .countdown, .join{
+
+
+
+		min-height: 230px;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media(max-width: 1152px){
+
+
+
+	.container{
+
+
+
+		max-width: 900px;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media(max-width: 1024px){
+
+
+
+	.container{
+
+
+
+		max-width: 800px;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media(max-width: 800px){
+
+
+
+	.container{
+
+
+
+		width: 90%;
+
+
+
+		text-align: center;
+
+
+
+	}
+
+
+
+	#ads{
+
+
+
+		display: none;
+
+
+
+	}
+
+
+
+	.slider-button{
+
+
+
+		float: none;
+
+
+
+	}
+
+
+
+	.slider{
+
+
+
+		margin-top: 20px;
+
+
+
+		width: 100%;
+
+
+
+	}
+
+
+
+	.col-md-4{
+
+
+
+		width: 100%;
+
+
+
+	}
+
+
+
+	.countdown, .client, .join{
+
+
+
+		width: 100%;
+
+
+
+		margin-top: 20px;
+
+
+
+	}
+
+
+
+	.slider-button-container{
+
+
+
+		text-align: center;
+
+
+
+		margin-bottom: 35px;
+
+
+
+	}
+
+
+
+	.logo{
+
+
+
+		width: 50%;
+
+
+
+	}
+
+
+
+}
+
+
+
+.color-orange{
+
+	color: #f26322;
+
+}
+
+
+
+.copyright, .social-links{
+
+	margin-top: 35px;
+
+}
+
+.modal-body.playlist {
+	font-family: Arial, sans-serif;
+}
+
+.modal-body.playlist h1, .modal-body.playlist h2 {
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 0;
+}
+
+/*.modal-body.playlist h2 {
+	color: #FFF;
+	transform: rotate(90deg);
+	transform-origin: 0% 0%;
+}*/
+
+.modal-body.playlist .side-label {
+	background-color: #1e1e1e;
+	color: #FFF;
+	transform: rotate(90deg);
+	transform-origin: 100% 0%;
+}
+
+@media only screen and (min-width : 320px) {
+    
+}
+
+@media only screen and (min-width : 480px) {
+
+}
+
+@media only screen and (min-width : 768px) {
+
+}
+
+@media only screen and (min-width : 992px) {
+	.modal-body.playlist .side-label, .modal-body.playlist .blank-red, .modal-body.playlist .count-no, .modal-body.playlist .count-title {
+		float: left;
+	}
+}
+
+@media only screen and (min-width : 1200px) {
+
+}
+
+.modal-body.playlist .count, .modal-body.playlist .count-no, .modal-body.playlist .count-titleartist {
+	font-family: Arial, sans-serif;
+	float: left;
+}
+
+.modal-body.playlist .count, .modal-body.playlist .count-no {
+	background-color: #c80000;
+}
+
+.modal-body.playlist .count {
+	width: 5px;
+	padding: 0;
+}
+
+.modal-body.playlist .count-no {
+	border: 1px solid #f3f1f1;
+	color: #FFF;
+	padding: 5px;
+}
+
+.modal-body.playlist .count-titleartist {
+	border-top: 1px solid #fff;
+	background-color: #f3f1f1;
+	float: left;
+	padding: 5px;
+}
+
+.modal-body.playlist .count-title {
+	text-transform: uppercase;
+}
+
+.modal-body.playlist .count-artist {
+	color: #c80000;
+}

@@ -1,0 +1,53 @@
+#radio {
+	display: none;
+	position: absolute;
+	width: 200px;
+	height: 109.88px;
+	z-index: 999;
+}
+
+#body {
+	position: absolute;
+	width: 200px;
+	height: 109.88px;
+	background: url('../images/radio/radio4.png') no-repeat;
+	background-size: 200px;
+	cursor: move;
+}
+
+#power {
+	position: absolute;
+	background: url('../images/radio/power.png') no-repeat;
+	left: 11px;
+	top: 27px;
+	width: 19.76284584980237px;
+	height: 19.76284584980237px;
+	background-size: 19.76284584980237px;
+	cursor: pointer;
+}
+
+#volume {
+	position: absolute;
+	background: url('../images/radio/volume.png') no-repeat;
+	right: 19px;
+	top: 21px;
+	width: 35.57312252964427px;
+	height: 35.57312252964427px;
+	background-size: 35.57312252964427px;
+	cursor: pointer;
+}
+
+#led {
+	position: absolute;
+	left: 43px;
+	top: 24px;
+	width: 74.30830039525692px;
+	height: 22.13438735177866px;
+	background: url('../images/radio/led.png') no-repeat;
+	background-size: 74.30830039525692px;
+	display: none;
+}
+
+#logo img {
+	cursor: pointer;
+}
